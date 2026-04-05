@@ -55,5 +55,6 @@ This dashboard allows real estate firms to:
 * Optimize agent assignments
 * Identify market opportunities and risks early
 
-![Uploading Screen Shot 2026-04-05 at 7.35.26 PM.png…]()
+<img width="933" height="514" alt="Dashboard Image" src="https://github.com/user-attachments/assets/5d0b4652-a0b1-44ba-8162-ebf7c64fac5a" />
+
 
